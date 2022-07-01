@@ -12,6 +12,24 @@
     
     
     <item>
+      <title>Hijrah ke static web</title>
+      <link>https://dalamjaringan.github.io/post/010622/</link>
+      <pubDate>Fri, 01 Jul 2022 13:23:11 +0700</pubDate>
+      
+      <guid>https://dalamjaringan.github.io/post/010622/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Latar Belakang&lt;/strong&gt;&lt;br&gt;
+Keinginan untuk berpindah dari wordpress ke web static sebenarnya sudah muncul cukup lama. Terlebih sejak tak lagi menggunakan windows sebagai sistem operasi utama di laptop. namun keinginan ini tak kunjung terealisasikan karena beberapa hal, terutama kesadaran diri akan rendahnya kemampuan membuat sebuah halaman web dari nol, belum lagi bagaimana membuat sistem managemen kontennya. Karenanya, keinginan yang ada pun sebatas menjadi keinginan.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mengenal hugo dan jekyll&lt;/strong&gt;&lt;br&gt;
+Keinginan untuk membangun web pribadi pada akhirnya muncul kembali setelah mengenal hugo dan jekyll. Sebuah framework yang dapat digunakan untuk membuat sebuah web static dengan mudah. Setelah melakukan &lt;em&gt;trial and error&lt;/em&gt; beberapa kali, pada akhirnya web static ini berhasi saya buat menggunakan &lt;strong&gt;hugo&lt;/strong&gt; sebagai frameworknya.&lt;/p&gt;
+&lt;p&gt;Ada beberapa alasan mengapa memilih pindah menggunakan web static dari wordpress. Hal yang paling utama adalah kemudahan untuk mengotak-atik layout dan membuat post baru. Terlebih dengan &lt;strong&gt;Hugo&lt;/strong&gt; framework kita dapat langsung menulis postingan dalam format markdown yang tentunya lebih simpel, mudah, dan rapi daripada menulis dalam format html.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mencoba menulis&lt;/strong&gt;&lt;br&gt;
+Kemudahan dan kebebasan untuk mengotak-atik layout web ini pada akhirnya tak lain dan tak bukan hanya untuk menghasilkan &lt;em&gt;kesederhanaan&lt;/em&gt;. Segala yang sederhana dan minimalis ini harapannya dapat membuat saya lebih fokus untuk kembali dan terus menulis. Bukan untuk dibaca, tapi untuk memuaskan ego saya sendiri. Sebagaimana pram, saya &lt;strong&gt;menulis untuk keabadian.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
       <title>Hello World</title>
       <link>https://dalamjaringan.github.io/post/my-post/</link>
       <pubDate>Thu, 30 Jun 2022 22:26:37 +0700</pubDate>
