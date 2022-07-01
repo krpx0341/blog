@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hanif-log</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Hanif-log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 30 Jun 2022 22:26:37 +0700</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://example.com/post/my-post/</link>
+      <pubDate>Thu, 30 Jun 2022 22:26:37 +0700</pubDate>
+      
+      <guid>https://example.com/post/my-post/</guid>
+      <description>Hello World!
+This is my first post.</description>
+    </item>
+    
+    <item>
+      <title>Tentang Hanif-log</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Thu, 30 Jun 2022 22:19:40 +0700</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>Hanif-log adalah sebuah web static yang dibangun dengan hugo framework. Semua konten dalam web ini ditulis dan diperbarui sesukanya oleh Hanif. Pemahaman dan pemaknaan pembaca akan tulisan-tulisan dalam web ini sepenuhnya menjadi tanggung jawab pembaca.</description>
+    </item>
+    
+  </channel>
+</rss>
